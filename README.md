@@ -12,6 +12,6 @@ A resume builder that runs in your browser, built with React and Vite. You fill 
 - Email, phone, and date fields show format hints while you type, and never block editing.
 - An example resume loads on first visit, so the preview is never empty.
 
-## Live Preview
+**[Live Demo](https://cv-application-w3nc.vercel.app/)**
 
 ![Screenshot](./screenshot.png)
